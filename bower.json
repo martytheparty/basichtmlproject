@@ -1,0 +1,24 @@
+{
+  "name": "basichtmltemplate",
+  "authors": [
+    "marty_trujillo <marty@ilikeemail.com>"
+  ],
+  "description": "Basic HTML Template",
+  "main": "index.html",
+  "keywords": [
+    "html"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
